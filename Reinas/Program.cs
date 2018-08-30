@@ -21,6 +21,7 @@ namespace Reinas
             Calculos.Ensayar(0, Solucion, Columnas, DiagonalD, DiagonalI, ref reina);
             Calculos.Mostrar(Solucion);
             Console.Read();
+            Console.Read();
         }
     }
 }
